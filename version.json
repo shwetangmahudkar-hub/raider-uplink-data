@@ -1,5 +1,5 @@
 {
-  "current_version": "1.0.1",
-  "force_update": false,
-  "message": "Live connection established."
+  "current_version": "1.0.2", 
+  "force_update": true,
+  "message": "Map Systems Online."
 }
