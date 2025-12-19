@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "version": "1.0.1",
+    "last_updated": "2025-12-18",
+    "message": "Cloud Database Active"
+  },
+  "items": [
+    {
+      "id": "item_electronid",
+      "name": "Electronid",
+      "rarity": "rare",
+      "category": "component",
+      "value_rating": "keep",
+      "description": "Critical component for high-tier optics.",
+      "market_price": 450,
+      "crafting_uses": ["Thermal Scope T2", "Sensor Array T3"]
+    },
+    {
+      "id": "item_toaster",
+      "name": "Old Toaster",
+      "rarity": "common",
+      "category": "junk",
+      "value_rating": "recycle",
+      "description": "Pre-collapse appliance. Minimal value.",
+      "market_price": 15,
+      "crafting_uses": ["Scrap Metal"]
+    },
+    {
+      "id": "item_transistor",
+      "name": "Transistor Bundle",
+      "rarity": "uncommon",
+      "category": "component",
+      "value_rating": "sell",
+      "description": "High market demand. Sell for cash.",
+      "market_price": 200,
+      "crafting_uses": []
+    },
+    {
+      "id": "item_cloud_test",
+      "name": "Cloud Uplink Key",
+      "rarity": "legendary",
+      "category": "quest",
+      "value_rating": "keep",
+      "description": "Evidence that cloud sync is working.",
+      "market_price": 9999,
+      "crafting_uses": ["Master Protocol"]
+    }
+  ]
+}
