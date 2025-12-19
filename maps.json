@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "last_updated": "2025-12-19",
+    "message": "Topography Initialized"
+  },
+  "maps": [
+    {
+      "id": "map_speranza",
+      "name": "Speranza Central",
+      "image_asset_name": "map_speranza_surface",
+      "layers": ["Surface", "Undercity"],
+      "nodes": [
+        { "id": "ex_01", "type": "extract", "label": "Pipeline Extract", "x": 0.25, "y": 0.45, "description": "High risk sniper zone." },
+        { "id": "loot_01", "type": "loot", "label": "Medical Cache", "x": 0.65, "y": 0.75, "description": "Tier 3 Medkits." },
+        { "id": "danger_01", "type": "danger", "label": "ARC Patrol", "x": 0.50, "y": 0.50, "description": "Drone swarm spotted." }
+      ]
+    }
+  ]
+}
