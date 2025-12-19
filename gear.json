@@ -2,7 +2,388 @@
   "meta": {
     "version": "1.7.0",
     "last_updated": "2025-12-19",
-    "message": "Auto-Generated"
+    "message": "Feature-Based Detection Update"
   },
-  "gear": []
+  "gear": [
+    {
+      "id": "osprey_ii",
+      "name": "Osprey II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
+      "stats": {
+        "damage": 45,
+        "fire_rate": 17.7,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "hullcracker_iii",
+      "name": "Hullcracker III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+      "stats": {
+        "damage": 100,
+        "fire_rate": 20.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "vulcano_ii",
+      "name": "Vulcano II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+      "stats": {
+        "damage": 58.5,
+        "fire_rate": 14.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
+      "stats": {
+        "damage": 60,
+        "fire_rate": 7.67,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "renegade_iv",
+      "name": "Renegade IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
+      "stats": {
+        "damage": 35,
+        "fire_rate": 21,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "il_toro_iii",
+      "name": "Il Toro III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
+      "stats": {
+        "damage": 67.5,
+        "fire_rate": 14.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "rattler_ii",
+      "name": "Rattler II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+      "stats": {
+        "damage": 9,
+        "fire_rate": 33.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "osprey_iv",
+      "name": "Osprey IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
+      "stats": {
+        "damage": 45,
+        "fire_rate": 17.7,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "equalizer",
+      "name": "Equalizer",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "A high capacity experimental beam rifle.",
+      "stats": {
+        "damage": 8,
+        "fire_rate": 33.33,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "il_toro_iv",
+      "name": "Il Toro IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
+      "stats": {
+        "damage": 67.5,
+        "fire_rate": 14.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "renegade_ii",
+      "name": "Renegade II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
+      "stats": {
+        "damage": 35,
+        "fire_rate": 21,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "vulcano_iv",
+      "name": "Vulcano IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+      "stats": {
+        "damage": 49.5,
+        "fire_rate": 26.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "rattler_iv",
+      "name": "Rattler IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+      "stats": {
+        "damage": 9,
+        "fire_rate": 33.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "vulcano_i",
+      "name": "Vulcano I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+      "stats": {
+        "damage": 58.5,
+        "fire_rate": 8.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "hullcracker_ii",
+      "name": "Hullcracker II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+      "stats": {
+        "damage": 100,
+        "fire_rate": 20.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "renegade_iii",
+      "name": "Renegade III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Lever-action battle rifle with high damage output, accuracy, and headshot damage.",
+      "stats": {
+        "damage": 35,
+        "fire_rate": 21,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "hullcracker_iv",
+      "name": "Hullcracker IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Fires explosive projectiles that only detonate when hitting ARC.",
+      "stats": {
+        "damage": 100,
+        "fire_rate": 20.3,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "cans_backpack_attachment",
+      "name": "Cans Backpack Attachment",
+      "slot": "backpack",
+      "category": "BACKPACK",
+      "weight_kg": 0.0,
+      "description": "Cosmetic Backpack Attachment",
+      "stats": {
+        "damage": null,
+        "fire_rate": null,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "osprey_iii",
+      "name": "Osprey III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
+      "stats": {
+        "damage": 45,
+        "fire_rate": 17.7,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "backpack_black_hiker_color",
+      "name": "Backpack (Black Hiker Color)",
+      "slot": "backpack",
+      "category": "BACKPACK",
+      "weight_kg": 0.0,
+      "description": "Cosmetic Backpack",
+      "stats": {
+        "damage": null,
+        "fire_rate": null,
+        "mag_size": null,
+        "dps": null,
+        "reload_speed": null,
+        "mitigation": null,
+        "grid_slots": null,
+        "safe_slots": null,
+        "ammo_type": "Standard"
+      }
+    }
+  ]
 }
