@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "last_updated": "2025-12-19",
+    "message": "Schematics Loaded"
+  },
+  "recipes": [
+    {
+      "id": "bench_med_02",
+      "name": "Medical Station: Level 2",
+      "category": "Infrastructure",
+      "description": "Unlocks production of Coagulant Stims and Field Dressings.",
+      "ingredients": [
+        { "item_id": "item_electronid", "count": 12 },
+        { "item_id": "item_toaster", "count": 5 }
+      ]
+    },
+    {
+      "id": "bench_wep_02",
+      "name": "Munitions Press: Level 2",
+      "category": "Weaponry",
+      "description": "Allows crafting of Armor-Piercing (AP) rounds.",
+      "ingredients": [
+        { "item_id": "item_transistor", "count": 8 },
+        { "item_id": "item_electronid", "count": 4 }
+      ]
+    },
+    {
+      "id": "mod_scope_therm",
+      "name": "Thermal Optic T3",
+      "category": "Attachments",
+      "description": "High-contrast thermal imaging scope for rifles.",
+      "ingredients": [
+        { "item_id": "item_electronid", "count": 20 }
+      ]
+    }
+  ]
+}
