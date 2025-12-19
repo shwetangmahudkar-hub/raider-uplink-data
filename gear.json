@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "last_updated": "2025-12-19",
+    "message": "Armory Access Granted"
+  },
+  "gear": [
+    {
+      "id": "wep_ar_standard",
+      "name": "Vanguard AR-55",
+      "slot": "primary",
+      "weight_kg": 4.5,
+      "stat_primary": 25,
+      "stat_label": "DMG",
+      "description": "Standard issue assault rifle. Reliable and versatile."
+    },
+    {
+      "id": "wep_sniper_heavy",
+      "name": "Blackline 50-Cal",
+      "slot": "primary",
+      "weight_kg": 9.2,
+      "stat_primary": 120,
+      "stat_label": "DMG",
+      "description": "Anti-material rifle. Extremely heavy but lethal."
+    },
+    {
+      "id": "arm_vest_light",
+      "name": "Scout Rig",
+      "slot": "armor",
+      "weight_kg": 2.1,
+      "stat_primary": 15,
+      "stat_label": "ARMOR",
+      "description": "Lightweight plating favoring mobility."
+    },
+    {
+      "id": "arm_vest_heavy",
+      "name": "Jugbernaut Plate",
+      "slot": "armor",
+      "weight_kg": 12.5,
+      "stat_primary": 65,
+      "stat_label": "ARMOR",
+      "description": "Ceramic composite plates. Maximum protection."
+    },
+    {
+      "id": "wep_pistol_t1",
+      "name": "P1 Tactical",
+      "slot": "secondary",
+      "weight_kg": 1.2,
+      "stat_primary": 18,
+      "stat_label": "DMG",
+      "description": "Sidearm with extended mag."
+    }
+  ]
+}
