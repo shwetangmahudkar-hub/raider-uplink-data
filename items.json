@@ -1,64 +1,119 @@
 {
   "meta": {
-    "version": "1.4.0",
+    "version": "1.7.0",
     "last_updated": "2025-12-19",
-    "message": "Junk Economy Online"
+    "message": "Full Community Database Injection"
   },
   "items": [
     {
-      "id": "item_electronid",
-      "name": "Electronid",
-      "rarity": "rare",
-      "category": "component",
+      "id": "adrenaline_shot",
+      "name": "Adrenaline Shot",
+      "rarity": "Common",
+      "category": "CONSUMABLE",
       "value_rating": "keep",
-      "description": "Critical component for high-tier optics.",
-      "market_price": 450,
+      "description": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
+      "market_price": 300,
+      "recycle_yield": "1x Chemicals, 1x Plastic Parts",
+      "stack_size": 5
+    },
+    {
+      "id": "advanced_arc_powercell",
+      "name": "Advanced ARC Powercell",
+      "rarity": "Rare",
+      "category": "COMPONENT",
+      "value_rating": "sell",
+      "description": "Very valuable resource that drops from certain ARC enemies.",
+      "market_price": 640,
+      "recycle_yield": "2x ARC Powercell",
+      "stack_size": 5
+    },
+    {
+      "id": "advanced_electrical_components",
+      "name": "Advanced Electrical Components",
+      "rarity": "Uncommon",
+      "category": "COMPONENT",
+      "value_rating": "keep",
+      "description": "High-grade electronics used in advanced crafting.",
+      "market_price": 120,
+      "recycle_yield": "3x Electrical Components",
+      "stack_size": 10
+    },
+    {
+      "id": "alarm_clock",
+      "name": "Alarm Clock",
+      "rarity": "Common",
+      "category": "JUNK",
+      "value_rating": "recycle",
+      "description": "An old mechanical clock. Good source of basic parts.",
+      "market_price": 15,
+      "recycle_yield": "1x Processor, 2x Plastic Parts",
+      "stack_size": 5
+    },
+    {
+      "id": "arc_alloy",
+      "name": "ARC Alloy",
+      "rarity": "Uncommon",
+      "category": "COMPONENT",
+      "value_rating": "keep",
+      "description": "Durable metal alloy harvested from ARC machines.",
+      "market_price": 45,
       "recycle_yield": "Cannot Recycle",
       "stack_size": 20
     },
     {
-      "id": "item_alarm_clock",
-      "name": "Alarm Clock",
-      "rarity": "common",
-      "category": "junk",
-      "value_rating": "recycle",
-      "description": "High value junk. Do not sell raw.",
-      "market_price": 15,
-      "recycle_yield": "1x Processor, 6x Plastic Parts",
-      "stack_size": 3
+      "id": "kettle",
+      "name": "The Kettle",
+      "rarity": "Common",
+      "category": "WEAPON",
+      "value_rating": "keep",
+      "description": "Standard issue militia assault rifle. Reliable and easy to maintain.",
+      "market_price": 450,
+      "recycle_yield": "4x Metal Parts, 2x Weapon Parts",
+      "stack_size": 1
     },
     {
-      "id": "item_pump",
-      "name": "Bicycle Pump",
-      "rarity": "common",
-      "category": "junk",
+      "id": "broken_flashlight",
+      "name": "Broken Flashlight",
+      "rarity": "Common",
+      "category": "JUNK",
       "value_rating": "recycle",
-      "description": "Source of Canisters.",
+      "description": "It doesn't turn on anymore.",
       "market_price": 10,
-      "recycle_yield": "4x Canister, 10x Metal Parts",
-      "stack_size": 3
-    },
-    {
-      "id": "item_football",
-      "name": "Deflated Football",
-      "rarity": "common",
-      "category": "junk",
-      "value_rating": "recycle",
-      "description": "Gold mine for rubber.",
-      "market_price": 5,
-      "recycle_yield": "15x Rubber Parts",
-      "stack_size": 3
-    },
-    {
-      "id": "item_lens",
-      "name": "Camera Lens",
-      "rarity": "uncommon",
-      "category": "junk",
-      "value_rating": "recycle",
-      "description": "Dense plastic source.",
-      "market_price": 25,
-      "recycle_yield": "8x Plastic Parts",
+      "recycle_yield": "1x Battery, 1x Plastic Parts",
       "stack_size": 5
+    },
+    {
+      "id": "camera_lens",
+      "name": "Camera Lens",
+      "rarity": "Uncommon",
+      "category": "JUNK",
+      "value_rating": "recycle",
+      "description": "Precision glass, useful for optics.",
+      "market_price": 25,
+      "recycle_yield": "1x Optic Glass, 1x Plastic Parts",
+      "stack_size": 5
+    },
+    {
+      "id": "osprey",
+      "name": "The Osprey",
+      "rarity": "Rare",
+      "category": "WEAPON",
+      "value_rating": "keep",
+      "description": "High-caliber sniper rifle. Slow fire rate, devastating impact.",
+      "market_price": 1200,
+      "recycle_yield": "6x Metal Parts, 3x Weapon Parts, 1x Optic Glass",
+      "stack_size": 1
+    },
+    {
+      "id": "medical_supplies",
+      "name": "Rusted Shut Medical Kit",
+      "rarity": "Common",
+      "category": "JUNK",
+      "value_rating": "recycle",
+      "description": "Requires tools to open. Contains medical supplies.",
+      "market_price": 20,
+      "recycle_yield": "2x Antiseptic, 1x Bandage",
+      "stack_size": 3
     }
   ]
 }
