@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.2",
-    "last_updated": "2025-12-18",
-    "message": "Cloud Database Active"
+    "version": "1.4.0",
+    "last_updated": "2025-12-19",
+    "message": "Junk Economy Online"
   },
   "items": [
     {
@@ -13,37 +13,52 @@
       "value_rating": "keep",
       "description": "Critical component for high-tier optics.",
       "market_price": 450,
-      "crafting_uses": ["Thermal Scope T2", "Sensor Array T3"]
+      "recycle_yield": "Cannot Recycle",
+      "stack_size": 20
     },
     {
-      "id": "item_toaster",
-      "name": "Old Toaster",
+      "id": "item_alarm_clock",
+      "name": "Alarm Clock",
       "rarity": "common",
       "category": "junk",
       "value_rating": "recycle",
-      "description": "Pre-collapse appliance. Minimal value.",
+      "description": "High value junk. Do not sell raw.",
       "market_price": 15,
-      "crafting_uses": ["Scrap Metal"]
+      "recycle_yield": "1x Processor, 6x Plastic Parts",
+      "stack_size": 3
     },
     {
-      "id": "item_transistor",
-      "name": "Transistor Bundle",
+      "id": "item_pump",
+      "name": "Bicycle Pump",
+      "rarity": "common",
+      "category": "junk",
+      "value_rating": "recycle",
+      "description": "Source of Canisters.",
+      "market_price": 10,
+      "recycle_yield": "4x Canister, 10x Metal Parts",
+      "stack_size": 3
+    },
+    {
+      "id": "item_football",
+      "name": "Deflated Football",
+      "rarity": "common",
+      "category": "junk",
+      "value_rating": "recycle",
+      "description": "Gold mine for rubber.",
+      "market_price": 5,
+      "recycle_yield": "15x Rubber Parts",
+      "stack_size": 3
+    },
+    {
+      "id": "item_lens",
+      "name": "Camera Lens",
       "rarity": "uncommon",
-      "category": "component",
-      "value_rating": "sell",
-      "description": "High market demand. Sell for cash.",
-      "market_price": 200,
-      "crafting_uses": []
-    },
-    {
-      "id": "item_cloud_test",
-      "name": "Cloud Uplink Key",
-      "rarity": "legendary",
-      "category": "quest",
-      "value_rating": "keep",
-      "description": "Evidence that cloud sync is working.",
-      "market_price": 9999,
-      "crafting_uses": ["Master Protocol"]
+      "category": "junk",
+      "value_rating": "recycle",
+      "description": "Dense plastic source.",
+      "market_price": 25,
+      "recycle_yield": "8x Plastic Parts",
+      "stack_size": 5
     }
   ]
 }
