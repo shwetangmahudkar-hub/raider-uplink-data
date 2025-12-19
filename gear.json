@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.8.0",
+    "version": "1.9.0",
     "last_updated": "2025-12-19",
-    "message": "Fixed Category Detection"
+    "message": "Scrubbed Integers"
   },
   "gear": [
     {
@@ -14,13 +14,14 @@
       "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
       "stats": {
         "damage": 45,
-        "fire_rate": 17.7,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 17,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -33,13 +34,14 @@
       "description": "Fires explosive projectiles that only detonate when hitting ARC.",
       "stats": {
         "damage": 100,
-        "fire_rate": 20.3,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 20,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -51,14 +53,15 @@
       "weight_kg": 0.0,
       "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
       "stats": {
-        "damage": 58.5,
-        "fire_rate": 14.3,
-        "mag_size": null,
-        "dps": null,
+        "damage": 58,
+        "fire_rate": 14,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -71,13 +74,14 @@
       "description": "A bolt-action sniper rifle with exceptional damage output and accuracy, but slow handling.",
       "stats": {
         "damage": 60,
-        "fire_rate": 7.67,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 7,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -91,12 +95,13 @@
       "stats": {
         "damage": 35,
         "fire_rate": 21,
-        "mag_size": null,
-        "dps": null,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -108,14 +113,15 @@
       "weight_kg": 0.0,
       "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
       "stats": {
-        "damage": 67.5,
-        "fire_rate": 14.3,
-        "mag_size": null,
-        "dps": null,
+        "damage": 67,
+        "fire_rate": 14,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -128,13 +134,14 @@
       "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
       "stats": {
         "damage": 9,
-        "fire_rate": 33.3,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 33,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -147,13 +154,14 @@
       "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
       "stats": {
         "damage": 45,
-        "fire_rate": 17.7,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 17,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -166,13 +174,14 @@
       "description": "A high capacity experimental beam rifle.",
       "stats": {
         "damage": 8,
-        "fire_rate": 33.33,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 33,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -184,14 +193,15 @@
       "weight_kg": 0.0,
       "description": "Pump-action shotgun with large bullet spread, sharp falloff, and high damage output.",
       "stats": {
-        "damage": 67.5,
-        "fire_rate": 14.3,
-        "mag_size": null,
-        "dps": null,
+        "damage": 67,
+        "fire_rate": 14,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -205,12 +215,13 @@
       "stats": {
         "damage": 35,
         "fire_rate": 21,
-        "mag_size": null,
-        "dps": null,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -222,14 +233,15 @@
       "weight_kg": 0.0,
       "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
       "stats": {
-        "damage": 49.5,
-        "fire_rate": 26.3,
-        "mag_size": null,
-        "dps": null,
+        "damage": 49,
+        "fire_rate": 26,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -242,13 +254,14 @@
       "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
       "stats": {
         "damage": 9,
-        "fire_rate": 33.3,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 33,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -260,14 +273,15 @@
       "weight_kg": 0.0,
       "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
       "stats": {
-        "damage": 58.5,
-        "fire_rate": 8.3,
-        "mag_size": null,
-        "dps": null,
+        "damage": 58,
+        "fire_rate": 8,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -280,13 +294,14 @@
       "description": "Fires explosive projectiles that only detonate when hitting ARC.",
       "stats": {
         "damage": 100,
-        "fire_rate": 20.3,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 20,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -300,12 +315,13 @@
       "stats": {
         "damage": 35,
         "fire_rate": 21,
-        "mag_size": null,
-        "dps": null,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -318,13 +334,14 @@
       "description": "Fires explosive projectiles that only detonate when hitting ARC.",
       "stats": {
         "damage": 100,
-        "fire_rate": 20.3,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 20,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -336,14 +353,15 @@
       "weight_kg": 0.0,
       "description": "Cosmetic Backpack Attachment",
       "stats": {
-        "damage": null,
-        "fire_rate": null,
-        "mag_size": null,
-        "dps": null,
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -356,13 +374,14 @@
       "description": "A scoped bolt-action sniper rifle with reliable damage output and accuracy.",
       "stats": {
         "damage": 45,
-        "fire_rate": 17.7,
-        "mag_size": null,
-        "dps": null,
+        "fire_rate": 17,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -374,14 +393,15 @@
       "weight_kg": 0.0,
       "description": "Cosmetic Backpack",
       "stats": {
-        "damage": null,
-        "fire_rate": null,
-        "mag_size": null,
-        "dps": null,
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
         "reload_speed": null,
-        "mitigation": null,
-        "grid_slots": null,
-        "safe_slots": null,
+        "mitigation": 0,
+        "move_penalty": 0,
+        "grid_slots": 0,
+        "safe_slots": 0,
         "ammo_type": "Standard"
       }
     }
