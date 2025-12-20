@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.9.0",
+    "version": "1.15.0",
     "last_updated": "2025-12-19",
-    "message": "Scrubbed Integers"
+    "message": "Synthetic Recipe Fix"
   },
   "gear": [
     {
@@ -17,11 +17,63 @@
         "fire_rate": 17,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "anvil_ii",
+      "name": "Anvil II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "arpeggio_iii",
+      "name": "Arpeggio III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has decent damage output and accuracy.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "extended_shotgun_mag_iii_blueprint",
+      "name": "Extended Shotgun Mag III Blueprint",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Significantly extends the ammo capacity of shotguns.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -37,11 +89,81 @@
         "fire_rate": 20,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "extended_shotgun_mag_ii",
+      "name": "Extended Shotgun Mag II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Moderately extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "ripped_safety_vest",
+      "name": "Ripped Safety Vest",
+      "slot": "armor",
+      "category": "ARMOR",
+      "weight_kg": 0.0,
+      "description": "Can be recycled into crafting materials.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "kettle_iii",
+      "name": "Kettle III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "ferro_ii",
+      "name": "Ferro II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Packs a punch, but must be reloaded between every shot.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -57,11 +179,9 @@
         "fire_rate": 14,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -77,11 +197,9 @@
         "fire_rate": 7,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -97,11 +215,81 @@
         "fire_rate": 21,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "arpeggio_iv",
+      "name": "Arpeggio IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has decent damage output and accuracy.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "torrente_iv",
+      "name": "Torrente IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has a large ammo capacity, but is only accurate while crouched.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "light_shield",
+      "name": "Light Shield",
+      "slot": "armor",
+      "category": "ARMOR",
+      "weight_kg": 0.0,
+      "description": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "torrente_i",
+      "name": "Torrente I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has a large ammo capacity, but is only accurate while crouched",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -117,11 +305,45 @@
         "fire_rate": 14,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "vulcano_iii",
+      "name": "Vulcano III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "torrente_iii",
+      "name": "Torrente III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has a large ammo capacity, but is only accurate while crouched.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -137,11 +359,63 @@
         "fire_rate": 33,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "extended_shotgun_mag_iii",
+      "name": "Extended Shotgun Mag III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Significantly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "vulcano_blueprint",
+      "name": "Vulcano Blueprint",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Semi-automatic shotgun with good bullet spread but sharp falloff",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "rattler_i",
+      "name": "Rattler I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -157,11 +431,45 @@
         "fire_rate": 17,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "anvil_iv",
+      "name": "Anvil IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "kettle_i",
+      "name": "Kettle I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -177,11 +485,81 @@
         "fire_rate": 33,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "ruined_riot_shield",
+      "name": "Ruined Riot Shield",
+      "slot": "armor",
+      "category": "ARMOR",
+      "weight_kg": 0.0,
+      "description": "Can be recycled into crafting materials.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "arpeggio_ii",
+      "name": "Arpeggio II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has decent damage output and accuracy.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "torrente_ii",
+      "name": "Torrente II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has a large ammo capacity, but is only accurate while crouched.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "anvil_blueprint",
+      "name": "Anvil Blueprint",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has high damage output and headshot damage, but slow handling.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -197,11 +575,9 @@
         "fire_rate": 14,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -217,11 +593,9 @@
         "fire_rate": 21,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -237,11 +611,27 @@
         "fire_rate": 26,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "ferro_iv",
+      "name": "Ferro IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Packs a punch, but must be reloaded between every shot.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -257,11 +647,63 @@
         "fire_rate": 33,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "ferro_i",
+      "name": "Ferro I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Packs a punch, but must be reloaded between every shot.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "rattler_iii",
+      "name": "Rattler III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Fully automatic assault rifle. A cheap offensive option, but has to be reloaded 2 bullets at a time.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "heavy_shield",
+      "name": "Heavy Shield",
+      "slot": "armor",
+      "category": "ARMOR",
+      "weight_kg": 0.0,
+      "description": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -277,11 +719,27 @@
         "fire_rate": 8,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "medium_shield",
+      "name": "Medium Shield",
+      "slot": "armor",
+      "category": "ARMOR",
+      "weight_kg": 0.0,
+      "description": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -297,11 +755,45 @@
         "fire_rate": 20,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "torrente_blueprint",
+      "name": "Torrente Blueprint",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has a large ammo capacity, but is only accurate while crouched.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "kettle_iv",
+      "name": "Kettle IV",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Quick and accurate, but has low bullet velocity and takes a long time to reload.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -317,11 +809,9 @@
         "fire_rate": 21,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -337,11 +827,99 @@
         "fire_rate": 20,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "arpeggio_i",
+      "name": "Arpeggio I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Has decent damage output and accuracy.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "anvil_iii",
+      "name": "Anvil III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "anvil_i",
+      "name": "Anvil I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Single-action hand cannon with high damage and headshot damage, but slow handling.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "anvil_splitter",
+      "name": "Anvil Splitter",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Tech mod for the Anvil that replaces its bullets with ones that split into 4 weaker projectiles.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "extended_shotgun_mag_i",
+      "name": "Extended Shotgun Mag I",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Slightly extends the ammo capacity of shotguns. Compatible with: Il Toro, Vulcano",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -357,11 +935,27 @@
         "fire_rate": 0,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "kettle_ii",
+      "name": "Kettle II",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Semi-automatic assault rifle. Quick and accurate, but has low bullet velocity and takes a long time reload.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -377,11 +971,27 @@
         "fire_rate": 17,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "ferro_iii",
+      "name": "Ferro III",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Packs a punch, but must be reloaded between every shot.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     },
@@ -397,11 +1007,63 @@
         "fire_rate": 0,
         "mag_size": 0,
         "dps": 0,
-        "reload_speed": null,
         "mitigation": 0,
-        "move_penalty": 0,
-        "grid_slots": 0,
         "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "surge_shield_recharger",
+      "name": "Surge Shield Recharger",
+      "slot": "armor",
+      "category": "ARMOR",
+      "weight_kg": 0.0,
+      "description": "A handheld kit that recharges a shield on use.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "ruined_tactical_vest",
+      "name": "Ruined Tactical Vest",
+      "slot": "armor",
+      "category": "ARMOR",
+      "weight_kg": 0.0,
+      "description": "Can be recycled into crafting materials.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
+        "ammo_type": "Standard"
+      }
+    },
+    {
+      "id": "extended_shotgun_mag_ii_blueprint",
+      "name": "Extended Shotgun Mag II Blueprint",
+      "slot": "primary",
+      "category": "WEAPON",
+      "weight_kg": 0.0,
+      "description": "Moderately extends the ammo capacity of shotguns.",
+      "stats": {
+        "damage": 0,
+        "fire_rate": 0,
+        "mag_size": 0,
+        "dps": 0,
+        "mitigation": 0,
+        "safe_slots": 0,
+        "grid_slots": 0,
         "ammo_type": "Standard"
       }
     }

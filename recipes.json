@@ -1,8 +1,1229 @@
 {
   "meta": {
-    "version": "1.9.0",
+    "version": "1.15.0",
     "last_updated": "2025-12-19",
-    "message": "Scrubbed Integers"
+    "message": "Synthetic Recipe Fix"
   },
-  "recipes": []
+  "recipes": [
+    {
+      "id": "rec_osprey_ii",
+      "name": "Osprey II",
+      "category": "WEAPON",
+      "description": "Schematic for Osprey II",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 17
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_anvil_ii",
+      "name": "Anvil II",
+      "category": "WEAPON",
+      "description": "Schematic for Anvil II",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 15
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_gas_grenade",
+      "name": "Gas Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Gas Grenade",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "id": "rec_arpeggio_iii",
+      "name": "Arpeggio III",
+      "category": "WEAPON",
+      "description": "Schematic for Arpeggio III",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 17
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_shrapnel_grenade",
+      "name": "Shrapnel Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Shrapnel Grenade",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "id": "rec_light_ammo",
+      "name": "Light Ammo",
+      "category": "AMMO",
+      "description": "Schematic for Light Ammo",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "rec_extended_shotgun_mag_iii_blueprint",
+      "name": "Extended Shotgun Mag III Blueprint",
+      "category": "WEAPON",
+      "description": "Schematic for Extended Shotgun Mag III Blueprint",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 17
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_blaze_grenade_blueprint",
+      "name": "Blaze Grenade Blueprint",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Blaze Grenade Blueprint",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "rec_hullcracker_iii",
+      "name": "Hullcracker III",
+      "category": "WEAPON",
+      "description": "Schematic for Hullcracker III",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 20
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_extended_shotgun_mag_ii",
+      "name": "Extended Shotgun Mag II",
+      "category": "WEAPON",
+      "description": "Schematic for Extended Shotgun Mag II",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 19
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_snap_blast_grenade",
+      "name": "Snap Blast Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Snap Blast Grenade",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "id": "rec_heavy_ammo",
+      "name": "Heavy Ammo",
+      "category": "AMMO",
+      "description": "Schematic for Heavy Ammo",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "id": "rec_kettle_iii",
+      "name": "Kettle III",
+      "category": "WEAPON",
+      "description": "Schematic for Kettle III",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 5
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_ferro_ii",
+      "name": "Ferro II",
+      "category": "WEAPON",
+      "description": "Schematic for Ferro II",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 12
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_vulcano_ii",
+      "name": "Vulcano II",
+      "category": "WEAPON",
+      "description": "Schematic for Vulcano II",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 7
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_jupiter",
+      "name": "Jupiter",
+      "category": "WEAPON",
+      "description": "Schematic for Jupiter",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 20
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_renegade_iv",
+      "name": "Renegade IV",
+      "category": "WEAPON",
+      "description": "Schematic for Renegade IV",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 10
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_arpeggio_iv",
+      "name": "Arpeggio IV",
+      "category": "WEAPON",
+      "description": "Schematic for Arpeggio IV",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 5
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_torrente_iv",
+      "name": "Torrente IV",
+      "category": "WEAPON",
+      "description": "Schematic for Torrente IV",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 14
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_lil_smoke_grenade",
+      "name": "Li'l Smoke Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Li'l Smoke Grenade",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "id": "rec_pulse_mine_blueprint",
+      "name": "Pulse Mine Blueprint",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Pulse Mine Blueprint",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "rec_gas_mine",
+      "name": "Gas Mine",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Gas Mine",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "id": "rec_torrente_i",
+      "name": "Torrente I",
+      "category": "WEAPON",
+      "description": "Schematic for Torrente I",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 17
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_heavy_fuze_grenade",
+      "name": "Heavy Fuze Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Heavy Fuze Grenade",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "id": "rec_il_toro_iii",
+      "name": "Il Toro III",
+      "category": "WEAPON",
+      "description": "Schematic for Il Toro III",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 14
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_vulcano_iii",
+      "name": "Vulcano III",
+      "category": "WEAPON",
+      "description": "Schematic for Vulcano III",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 11
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_torrente_iii",
+      "name": "Torrente III",
+      "category": "WEAPON",
+      "description": "Schematic for Torrente III",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 20
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_gas_grenade_trap",
+      "name": "Gas Grenade Trap",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Gas Grenade Trap",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "id": "rec_rattler_ii",
+      "name": "Rattler II",
+      "category": "WEAPON",
+      "description": "Schematic for Rattler II",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 9
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_extended_shotgun_mag_iii",
+      "name": "Extended Shotgun Mag III",
+      "category": "WEAPON",
+      "description": "Schematic for Extended Shotgun Mag III",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 16
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_vulcano_blueprint",
+      "name": "Vulcano Blueprint",
+      "category": "WEAPON",
+      "description": "Schematic for Vulcano Blueprint",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 6
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_rattler_i",
+      "name": "Rattler I",
+      "category": "WEAPON",
+      "description": "Schematic for Rattler I",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 7
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_explosive_mine",
+      "name": "Explosive Mine",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Explosive Mine",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "id": "rec_explosive_mine_blueprint",
+      "name": "Explosive Mine Blueprint",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Explosive Mine Blueprint",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "id": "rec_jolt_mine",
+      "name": "Jolt Mine",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Jolt Mine",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "id": "rec_blaze_grenade",
+      "name": "Blaze Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Blaze Grenade",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "id": "rec_medium_ammo",
+      "name": "Medium Ammo",
+      "category": "AMMO",
+      "description": "Schematic for Medium Ammo",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "rec_osprey_iv",
+      "name": "Osprey IV",
+      "category": "WEAPON",
+      "description": "Schematic for Osprey IV",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 19
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_anvil_iv",
+      "name": "Anvil IV",
+      "category": "WEAPON",
+      "description": "Schematic for Anvil IV",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 16
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_jolt_mine_blueprint",
+      "name": "Jolt Mine Blueprint",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Jolt Mine Blueprint",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "id": "rec_kettle_i",
+      "name": "Kettle I",
+      "category": "WEAPON",
+      "description": "Schematic for Kettle I",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 9
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_lure_grenade_blueprint",
+      "name": "Lure Grenade Blueprint",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Lure Grenade Blueprint",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "id": "rec_launcher_ammo",
+      "name": "Launcher Ammo",
+      "category": "AMMO",
+      "description": "Schematic for Launcher Ammo",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "id": "rec_equalizer",
+      "name": "Equalizer",
+      "category": "WEAPON",
+      "description": "Schematic for Equalizer",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 16
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_pulse_mine",
+      "name": "Pulse Mine",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Pulse Mine",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "id": "rec_syringe",
+      "name": "Syringe",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Syringe",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "rec_arpeggio_ii",
+      "name": "Arpeggio II",
+      "category": "WEAPON",
+      "description": "Schematic for Arpeggio II",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 11
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_torrente_ii",
+      "name": "Torrente II",
+      "category": "WEAPON",
+      "description": "Schematic for Torrente II",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 16
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_anvil_blueprint",
+      "name": "Anvil Blueprint",
+      "category": "WEAPON",
+      "description": "Schematic for Anvil Blueprint",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 5
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_il_toro_iv",
+      "name": "Il Toro IV",
+      "category": "WEAPON",
+      "description": "Schematic for Il Toro IV",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 14
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_renegade_ii",
+      "name": "Renegade II",
+      "category": "WEAPON",
+      "description": "Schematic for Renegade II",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 5
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_vulcano_iv",
+      "name": "Vulcano IV",
+      "category": "WEAPON",
+      "description": "Schematic for Vulcano IV",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 13
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_sterilized_bandage",
+      "name": "Sterilized Bandage",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Sterilized Bandage",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "id": "rec_smoke_grenade",
+      "name": "Smoke Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Smoke Grenade",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "id": "rec_lure_grenade",
+      "name": "Lure Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Lure Grenade",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "rec_ferro_iv",
+      "name": "Ferro IV",
+      "category": "WEAPON",
+      "description": "Schematic for Ferro IV",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 11
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_rattler_iv",
+      "name": "Rattler IV",
+      "category": "WEAPON",
+      "description": "Schematic for Rattler IV",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 6
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_ferro_i",
+      "name": "Ferro I",
+      "category": "WEAPON",
+      "description": "Schematic for Ferro I",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 6
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_seeker_grenade",
+      "name": "Seeker Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Seeker Grenade",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "id": "rec_smoke_grenade_blueprint",
+      "name": "Smoke Grenade Blueprint",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Smoke Grenade Blueprint",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "id": "rec_rattler_iii",
+      "name": "Rattler III",
+      "category": "WEAPON",
+      "description": "Schematic for Rattler III",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 5
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_vulcano_i",
+      "name": "Vulcano I",
+      "category": "WEAPON",
+      "description": "Schematic for Vulcano I",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 9
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_hullcracker_ii",
+      "name": "Hullcracker II",
+      "category": "WEAPON",
+      "description": "Schematic for Hullcracker II",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 15
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_smoke_grenade_trap",
+      "name": "Smoke Grenade Trap",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Smoke Grenade Trap",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "id": "rec_torrente_blueprint",
+      "name": "Torrente Blueprint",
+      "category": "WEAPON",
+      "description": "Schematic for Torrente Blueprint",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 13
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_kettle_iv",
+      "name": "Kettle IV",
+      "category": "WEAPON",
+      "description": "Schematic for Kettle IV",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 13
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_herbal_bandage",
+      "name": "Herbal Bandage",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Herbal Bandage",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "rec_renegade_iii",
+      "name": "Renegade III",
+      "category": "WEAPON",
+      "description": "Schematic for Renegade III",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 8
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_hullcracker_iv",
+      "name": "Hullcracker IV",
+      "category": "WEAPON",
+      "description": "Schematic for Hullcracker IV",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 6
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_blaze_grenade_trap",
+      "name": "Blaze Grenade Trap",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Blaze Grenade Trap",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "id": "rec_arpeggio_i",
+      "name": "Arpeggio I",
+      "category": "WEAPON",
+      "description": "Schematic for Arpeggio I",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 12
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_anvil_iii",
+      "name": "Anvil III",
+      "category": "WEAPON",
+      "description": "Schematic for Anvil III",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 18
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_anvil_i",
+      "name": "Anvil I",
+      "category": "WEAPON",
+      "description": "Schematic for Anvil I",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 10
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_shotgun_ammo",
+      "name": "Shotgun Ammo",
+      "category": "AMMO",
+      "description": "Schematic for Shotgun Ammo",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "id": "rec_anvil_splitter",
+      "name": "Anvil Splitter",
+      "category": "WEAPON",
+      "description": "Schematic for Anvil Splitter",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 11
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_extended_shotgun_mag_i",
+      "name": "Extended Shotgun Mag I",
+      "category": "WEAPON",
+      "description": "Schematic for Extended Shotgun Mag I",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 18
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_tagging_grenade_blueprint",
+      "name": "Tagging Grenade Blueprint",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Tagging Grenade Blueprint",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "id": "rec_lure_grenade_trap",
+      "name": "Lure Grenade Trap",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Lure Grenade Trap",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "rec_kettle_ii",
+      "name": "Kettle II",
+      "category": "WEAPON",
+      "description": "Schematic for Kettle II",
+      "ingredients": [
+        {
+          "item_id": "electronic_scrap",
+          "count": 18
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "rec_osprey_iii",
+      "name": "Osprey III",
+      "category": "WEAPON",
+      "description": "Schematic for Osprey III",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 18
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "rec_ferro_iii",
+      "name": "Ferro III",
+      "category": "WEAPON",
+      "description": "Schematic for Ferro III",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 20
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "rec_bandage",
+      "name": "Bandage",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Bandage",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "id": "rec_light_impact_grenade",
+      "name": "Light Impact Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Light Impact Grenade",
+      "ingredients": [
+        {
+          "item_id": "plastic_parts",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "id": "rec_tagging_grenade",
+      "name": "Tagging Grenade",
+      "category": "CONSUMABLE",
+      "description": "Schematic for Tagging Grenade",
+      "ingredients": [
+        {
+          "item_id": "metal_parts",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "id": "rec_extended_shotgun_mag_ii_blueprint",
+      "name": "Extended Shotgun Mag II Blueprint",
+      "category": "WEAPON",
+      "description": "Schematic for Extended Shotgun Mag II Blueprint",
+      "ingredients": [
+        {
+          "item_id": "wire",
+          "count": 20
+        },
+        {
+          "item_id": "weapon_part",
+          "count": 2
+        }
+      ]
+    }
+  ]
 }
