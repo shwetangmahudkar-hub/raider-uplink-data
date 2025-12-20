@@ -6,6 +6,61 @@
   },
   "items": [
     {
+      "id": "wire",
+      "name": "Wire",
+      "rarity": "Common",
+      "category": "COMPONENT",
+      "value_rating": "keep",
+      "description": "Electrical wiring salvaged from old equipment. Essential for crafting electronics and weapon mods. Used to craft: Muzzle attachments, Extended Magazines, Trap systems",
+      "market_price": 25,
+      "recycle_yield": "5x Metal Parts",
+      "stack_size": 100
+    },
+    {
+      "id": "weapon_part",
+      "name": "Weapon Parts",
+      "rarity": "Uncommon",
+      "category": "COMPONENT",
+      "value_rating": "keep",
+      "description": "Generic weapon components including springs, pins, and receivers. Required for all weapon crafting. Used to craft: All primary and secondary weapons",
+      "market_price": 150,
+      "recycle_yield": "10x Metal Parts + 5x Plastic Parts",
+      "stack_size": 50
+    },
+    {
+      "id": "electronic_scrap",
+      "name": "Electronic Scrap",
+      "rarity": "Common",
+      "category": "COMPONENT",
+      "value_rating": "keep",
+      "description": "Salvaged circuit boards, capacitors, and transistors. Critical for advanced crafting. Used to craft: Weapons, Grenades, Tactical equipment",
+      "market_price": 40,
+      "recycle_yield": "3x Wire + 2x Plastic Parts",
+      "stack_size": 100
+    },
+    {
+      "id": "metal_parts",
+      "name": "Metal Parts",
+      "rarity": "Common",
+      "category": "COMPONENT",
+      "value_rating": "keep",
+      "description": "Scrap metal pieces including steel, aluminum, and brass. The backbone of any crafter's inventory. Used to craft: Weapons, Armor, Explosives, Structural components",
+      "market_price": 30,
+      "recycle_yield": null,
+      "stack_size": 100
+    },
+    {
+      "id": "plastic_parts",
+      "name": "Plastic Parts",
+      "rarity": "Common",
+      "category": "COMPONENT",
+      "value_rating": "keep",
+      "description": "Polymer fragments and synthetic materials. Lightweight and versatile for crafting. Used to craft: Weapon stocks, Magazines, Consumables, Containers",
+      "market_price": 20,
+      "recycle_yield": null,
+      "stack_size": 100
+    },
+    {
       "id": "blue_gate_communication_tower_key",
       "name": "Blue Gate Communication Tower Key",
       "rarity": "Rare",
