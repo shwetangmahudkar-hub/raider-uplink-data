@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "version": "1.20.1",
+    "last_updated": "2025-12-20",
+    "message": "Combat simulator database initialized"
+  },
+  "enemies": [
+    {
+      "id": "bot_scout",
+      "name": "ARC Scout",
+      "health": 150,
+      "armor": 0,
+      "description": "Light surveillance unit. Fast but fragile.",
+      "image_asset_name": "arc_tick"
+    },
+    {
+      "id": "bot_raider",
+      "name": "Standard Raider",
+      "health": 300,
+      "armor": 20,
+      "description": "Common infantry unit. Balanced threat.",
+      "image_asset_name": "arc_machine"
+    },
+    {
+      "id": "bot_heavy",
+      "name": "Heavy Devastator",
+      "health": 800,
+      "armor": 60,
+      "description": "Heavily armored assault unit. High durability.",
+      "image_asset_name": "arc_devastator"
+    },
+    {
+      "id": "bot_elite",
+      "name": "Elite Sentinel",
+      "health": 1200,
+      "armor": 75,
+      "description": "Advanced combat unit. Extremely dangerous.",
+      "image_asset_name": "arc_sentinel"
+    },
+    {
+      "id": "bot_boss",
+      "name": "Thunderjaw Walker",
+      "health": 2500,
+      "armor": 85,
+      "description": "Apex machine. Requires coordinated assault.",
+      "image_asset_name": "arc_walker"
+    },
+    {
+      "id": "bot_matriarch",
+      "name": "Matriarch",
+      "health": 5000,
+      "armor": 90,
+      "description": "Final boss. Extreme threat level.",
+      "image_asset_name": "arc_matriarch"
+    }
+  ]
+}
