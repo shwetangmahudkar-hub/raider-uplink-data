@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.15.0",
+    "version": "1.20.0",
     "last_updated": "2025-12-19",
     "message": "Synthetic Recipe Fix"
   },
@@ -12,12 +12,12 @@
       "description": "Schematic for Osprey II",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
+          "item_id": "wire",
           "count": 17
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -28,12 +28,12 @@
       "description": "Schematic for Anvil II",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 15
+          "item_id": "plastic_parts",
+          "count": 19
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -44,8 +44,8 @@
       "description": "Schematic for Gas Grenade",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 13
+          "item_id": "plastic_parts",
+          "count": 18
         }
       ]
     },
@@ -56,12 +56,12 @@
       "description": "Schematic for Arpeggio III",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 17
+          "item_id": "electronic_scrap",
+          "count": 11
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -72,8 +72,8 @@
       "description": "Schematic for Shrapnel Grenade",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 19
+          "item_id": "wire",
+          "count": 14
         }
       ]
     },
@@ -84,8 +84,8 @@
       "description": "Schematic for Light Ammo",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 14
+          "item_id": "plastic_parts",
+          "count": 11
         }
       ]
     },
@@ -96,8 +96,8 @@
       "description": "Schematic for Extended Shotgun Mag III Blueprint",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 17
+          "item_id": "wire",
+          "count": 6
         },
         {
           "item_id": "weapon_part",
@@ -112,8 +112,8 @@
       "description": "Schematic for Blaze Grenade Blueprint",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 20
+          "item_id": "plastic_parts",
+          "count": 13
         }
       ]
     },
@@ -141,11 +141,11 @@
       "ingredients": [
         {
           "item_id": "wire",
-          "count": 19
+          "count": 6
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -156,7 +156,7 @@
       "description": "Schematic for Snap Blast Grenade",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
+          "item_id": "plastic_parts",
           "count": 15
         }
       ]
@@ -168,8 +168,8 @@
       "description": "Schematic for Heavy Ammo",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 10
+          "item_id": "plastic_parts",
+          "count": 15
         }
       ]
     },
@@ -181,7 +181,7 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 5
+          "count": 9
         },
         {
           "item_id": "weapon_part",
@@ -196,12 +196,12 @@
       "description": "Schematic for Ferro II",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 12
+          "item_id": "plastic_parts",
+          "count": 13
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -212,12 +212,12 @@
       "description": "Schematic for Vulcano II",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 7
+          "item_id": "plastic_parts",
+          "count": 16
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -228,12 +228,12 @@
       "description": "Schematic for Jupiter",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 20
+          "item_id": "metal_parts",
+          "count": 15
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -245,11 +245,11 @@
       "ingredients": [
         {
           "item_id": "electronic_scrap",
-          "count": 10
+          "count": 8
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -260,8 +260,8 @@
       "description": "Schematic for Arpeggio IV",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 5
+          "item_id": "metal_parts",
+          "count": 11
         },
         {
           "item_id": "weapon_part",
@@ -276,12 +276,12 @@
       "description": "Schematic for Torrente IV",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 14
+          "item_id": "metal_parts",
+          "count": 17
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -292,8 +292,8 @@
       "description": "Schematic for Li'l Smoke Grenade",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 19
+          "item_id": "electronic_scrap",
+          "count": 16
         }
       ]
     },
@@ -304,8 +304,8 @@
       "description": "Schematic for Pulse Mine Blueprint",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 20
+          "item_id": "metal_parts",
+          "count": 12
         }
       ]
     },
@@ -328,12 +328,12 @@
       "description": "Schematic for Torrente I",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 17
+          "item_id": "wire",
+          "count": 13
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -344,8 +344,8 @@
       "description": "Schematic for Heavy Fuze Grenade",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 11
+          "item_id": "plastic_parts",
+          "count": 5
         }
       ]
     },
@@ -356,8 +356,8 @@
       "description": "Schematic for Il Toro III",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 14
+          "item_id": "electronic_scrap",
+          "count": 17
         },
         {
           "item_id": "weapon_part",
@@ -372,12 +372,12 @@
       "description": "Schematic for Vulcano III",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 11
+          "item_id": "metal_parts",
+          "count": 18
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -389,11 +389,11 @@
       "ingredients": [
         {
           "item_id": "plastic_parts",
-          "count": 20
+          "count": 9
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -405,7 +405,7 @@
       "ingredients": [
         {
           "item_id": "plastic_parts",
-          "count": 19
+          "count": 16
         }
       ]
     },
@@ -417,11 +417,11 @@
       "ingredients": [
         {
           "item_id": "electronic_scrap",
-          "count": 9
+          "count": 11
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -432,12 +432,12 @@
       "description": "Schematic for Extended Shotgun Mag III",
       "ingredients": [
         {
-          "item_id": "wire",
+          "item_id": "plastic_parts",
           "count": 16
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -448,8 +448,8 @@
       "description": "Schematic for Vulcano Blueprint",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 6
+          "item_id": "electronic_scrap",
+          "count": 7
         },
         {
           "item_id": "weapon_part",
@@ -464,8 +464,8 @@
       "description": "Schematic for Rattler I",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 7
+          "item_id": "plastic_parts",
+          "count": 11
         },
         {
           "item_id": "weapon_part",
@@ -480,8 +480,8 @@
       "description": "Schematic for Explosive Mine",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 17
+          "item_id": "metal_parts",
+          "count": 6
         }
       ]
     },
@@ -492,8 +492,8 @@
       "description": "Schematic for Explosive Mine Blueprint",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 12
+          "item_id": "electronic_scrap",
+          "count": 8
         }
       ]
     },
@@ -504,8 +504,8 @@
       "description": "Schematic for Jolt Mine",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 16
+          "item_id": "plastic_parts",
+          "count": 6
         }
       ]
     },
@@ -516,8 +516,8 @@
       "description": "Schematic for Blaze Grenade",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 15
+          "item_id": "electronic_scrap",
+          "count": 5
         }
       ]
     },
@@ -528,8 +528,8 @@
       "description": "Schematic for Medium Ammo",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 20
+          "item_id": "electronic_scrap",
+          "count": 10
         }
       ]
     },
@@ -540,12 +540,12 @@
       "description": "Schematic for Osprey IV",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 19
+          "item_id": "electronic_scrap",
+          "count": 11
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -556,12 +556,12 @@
       "description": "Schematic for Anvil IV",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
+          "item_id": "wire",
           "count": 16
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -573,7 +573,7 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 12
+          "count": 16
         }
       ]
     },
@@ -584,12 +584,12 @@
       "description": "Schematic for Kettle I",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 9
+          "item_id": "electronic_scrap",
+          "count": 12
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -600,8 +600,8 @@
       "description": "Schematic for Lure Grenade Blueprint",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 13
+          "item_id": "metal_parts",
+          "count": 12
         }
       ]
     },
@@ -612,8 +612,8 @@
       "description": "Schematic for Launcher Ammo",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 10
+          "item_id": "metal_parts",
+          "count": 13
         }
       ]
     },
@@ -624,8 +624,8 @@
       "description": "Schematic for Equalizer",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 16
+          "item_id": "electronic_scrap",
+          "count": 18
         },
         {
           "item_id": "weapon_part",
@@ -640,8 +640,8 @@
       "description": "Schematic for Pulse Mine",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 16
+          "item_id": "metal_parts",
+          "count": 18
         }
       ]
     },
@@ -652,8 +652,8 @@
       "description": "Schematic for Syringe",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 8
+          "item_id": "electronic_scrap",
+          "count": 20
         }
       ]
     },
@@ -664,12 +664,12 @@
       "description": "Schematic for Arpeggio II",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 11
+          "item_id": "plastic_parts",
+          "count": 7
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -681,11 +681,11 @@
       "ingredients": [
         {
           "item_id": "electronic_scrap",
-          "count": 16
+          "count": 20
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -696,12 +696,12 @@
       "description": "Schematic for Anvil Blueprint",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 5
+          "item_id": "electronic_scrap",
+          "count": 19
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 2
         }
       ]
     },
@@ -713,11 +713,11 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 14
+          "count": 13
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -728,12 +728,12 @@
       "description": "Schematic for Renegade II",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 5
+          "item_id": "plastic_parts",
+          "count": 11
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -744,8 +744,8 @@
       "description": "Schematic for Vulcano IV",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 13
+          "item_id": "plastic_parts",
+          "count": 19
         },
         {
           "item_id": "weapon_part",
@@ -760,8 +760,8 @@
       "description": "Schematic for Sterilized Bandage",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 9
+          "item_id": "electronic_scrap",
+          "count": 19
         }
       ]
     },
@@ -772,8 +772,8 @@
       "description": "Schematic for Smoke Grenade",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 11
+          "item_id": "electronic_scrap",
+          "count": 5
         }
       ]
     },
@@ -785,7 +785,7 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 8
+          "count": 16
         }
       ]
     },
@@ -796,8 +796,8 @@
       "description": "Schematic for Ferro IV",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 11
+          "item_id": "metal_parts",
+          "count": 18
         },
         {
           "item_id": "weapon_part",
@@ -812,8 +812,8 @@
       "description": "Schematic for Rattler IV",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 6
+          "item_id": "plastic_parts",
+          "count": 7
         },
         {
           "item_id": "weapon_part",
@@ -828,12 +828,12 @@
       "description": "Schematic for Ferro I",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 6
+          "item_id": "metal_parts",
+          "count": 9
         },
         {
           "item_id": "weapon_part",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -844,8 +844,8 @@
       "description": "Schematic for Seeker Grenade",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 12
+          "item_id": "electronic_scrap",
+          "count": 5
         }
       ]
     },
@@ -856,8 +856,8 @@
       "description": "Schematic for Smoke Grenade Blueprint",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 15
+          "item_id": "wire",
+          "count": 9
         }
       ]
     },
@@ -868,8 +868,8 @@
       "description": "Schematic for Rattler III",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 5
+          "item_id": "plastic_parts",
+          "count": 6
         },
         {
           "item_id": "weapon_part",
@@ -884,12 +884,12 @@
       "description": "Schematic for Vulcano I",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 9
+          "item_id": "metal_parts",
+          "count": 17
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -900,8 +900,8 @@
       "description": "Schematic for Hullcracker II",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 15
+          "item_id": "plastic_parts",
+          "count": 9
         },
         {
           "item_id": "weapon_part",
@@ -917,7 +917,7 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 18
+          "count": 12
         }
       ]
     },
@@ -928,12 +928,12 @@
       "description": "Schematic for Torrente Blueprint",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 13
+          "item_id": "plastic_parts",
+          "count": 10
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -945,7 +945,7 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 13
+          "count": 10
         },
         {
           "item_id": "weapon_part",
@@ -960,8 +960,8 @@
       "description": "Schematic for Herbal Bandage",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 14
+          "item_id": "wire",
+          "count": 12
         }
       ]
     },
@@ -972,8 +972,8 @@
       "description": "Schematic for Renegade III",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 8
+          "item_id": "plastic_parts",
+          "count": 19
         },
         {
           "item_id": "weapon_part",
@@ -988,8 +988,8 @@
       "description": "Schematic for Hullcracker IV",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 6
+          "item_id": "plastic_parts",
+          "count": 20
         },
         {
           "item_id": "weapon_part",
@@ -1017,7 +1017,7 @@
       "ingredients": [
         {
           "item_id": "electronic_scrap",
-          "count": 12
+          "count": 7
         },
         {
           "item_id": "weapon_part",
@@ -1033,7 +1033,7 @@
       "ingredients": [
         {
           "item_id": "wire",
-          "count": 18
+          "count": 5
         },
         {
           "item_id": "weapon_part",
@@ -1048,8 +1048,8 @@
       "description": "Schematic for Anvil I",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 10
+          "item_id": "plastic_parts",
+          "count": 11
         },
         {
           "item_id": "weapon_part",
@@ -1064,8 +1064,8 @@
       "description": "Schematic for Shotgun Ammo",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 13
+          "item_id": "electronic_scrap",
+          "count": 19
         }
       ]
     },
@@ -1076,12 +1076,12 @@
       "description": "Schematic for Anvil Splitter",
       "ingredients": [
         {
-          "item_id": "metal_parts",
-          "count": 11
+          "item_id": "electronic_scrap",
+          "count": 12
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -1092,12 +1092,12 @@
       "description": "Schematic for Extended Shotgun Mag I",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 18
+          "item_id": "electronic_scrap",
+          "count": 10
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -1108,7 +1108,7 @@
       "description": "Schematic for Tagging Grenade Blueprint",
       "ingredients": [
         {
-          "item_id": "metal_parts",
+          "item_id": "plastic_parts",
           "count": 9
         }
       ]
@@ -1120,8 +1120,8 @@
       "description": "Schematic for Lure Grenade Trap",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 20
+          "item_id": "plastic_parts",
+          "count": 12
         }
       ]
     },
@@ -1132,8 +1132,8 @@
       "description": "Schematic for Kettle II",
       "ingredients": [
         {
-          "item_id": "electronic_scrap",
-          "count": 18
+          "item_id": "plastic_parts",
+          "count": 5
         },
         {
           "item_id": "weapon_part",
@@ -1148,12 +1148,12 @@
       "description": "Schematic for Osprey III",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 18
+          "item_id": "electronic_scrap",
+          "count": 20
         },
         {
           "item_id": "weapon_part",
-          "count": 3
+          "count": 1
         }
       ]
     },
@@ -1165,11 +1165,11 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 20
+          "count": 8
         },
         {
           "item_id": "weapon_part",
-          "count": 1
+          "count": 3
         }
       ]
     },
@@ -1181,7 +1181,7 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 20
+          "count": 5
         }
       ]
     },
@@ -1192,8 +1192,8 @@
       "description": "Schematic for Light Impact Grenade",
       "ingredients": [
         {
-          "item_id": "plastic_parts",
-          "count": 18
+          "item_id": "metal_parts",
+          "count": 8
         }
       ]
     },
@@ -1205,7 +1205,7 @@
       "ingredients": [
         {
           "item_id": "metal_parts",
-          "count": 17
+          "count": 5
         }
       ]
     },
@@ -1216,8 +1216,8 @@
       "description": "Schematic for Extended Shotgun Mag II Blueprint",
       "ingredients": [
         {
-          "item_id": "wire",
-          "count": 20
+          "item_id": "plastic_parts",
+          "count": 18
         },
         {
           "item_id": "weapon_part",
