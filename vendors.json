@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.9.0",
-    "last_updated": "2025-12-19",
-    "message": "Vendor Network Online"
+    "version": "1.20.1",
+    "last_updated": "2025-12-20",
+    "message": "Version sync with core database"
   },
   "vendors": [
     {
@@ -11,7 +11,7 @@
       "description": "Restocks high-caliber ammunition and weapon parts.",
       "reset_hour_utc": 9,
       "reset_frequency": "daily",
-      "image_icon": "cross.case.fill"
+      "image_icon": "wrench.and.screwdriver.fill"
     },
     {
       "id": "ven_med",
@@ -19,7 +19,7 @@
       "description": "Refreshes stock of stims and coagulants.",
       "reset_hour_utc": 12,
       "reset_frequency": "daily",
-      "image_icon": "heart.text.square.fill"
+      "image_icon": "cross.case.fill"
     },
     {
       "id": "ven_blackmarket",
@@ -28,6 +28,22 @@
       "reset_hour_utc": 0,
       "reset_frequency": "weekly",
       "image_icon": "eye.slash.fill"
+    },
+    {
+      "id": "ven_scavenger",
+      "name": "The Scavenger",
+      "description": "Trades rare components and crafting materials.",
+      "reset_hour_utc": 6,
+      "reset_frequency": "daily",
+      "image_icon": "shippingbox.fill"
+    },
+    {
+      "id": "ven_armorer",
+      "name": "Armorer's Guild",
+      "description": "Shields, armor, and defensive gear.",
+      "reset_hour_utc": 15,
+      "reset_frequency": "daily",
+      "image_icon": "shield.fill"
     }
   ]
 }

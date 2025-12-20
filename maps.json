@@ -1,19 +1,188 @@
 {
   "meta": {
-    "version": "1.9.0",
-    "last_updated": "2025-12-19",
-    "message": "Topography Initialized"
+    "version": "1.20.1",
+    "last_updated": "2025-12-20",
+    "message": "Version sync with core database"
   },
   "maps": [
     {
-      "id": "map_speranza",
-      "name": "Speranza Central",
-      "image_asset_name": "map_speranza_surface",
-      "layers": ["Surface", "Undercity"],
-      "nodes": [
-        { "id": "ex_01", "type": "extract", "label": "Pipeline Extract", "x": 0.25, "y": 0.45, "description": "High risk sniper zone." },
-        { "id": "loot_01", "type": "loot", "label": "Medical Cache", "x": 0.65, "y": 0.75, "description": "Tier 3 Medkits." },
-        { "id": "danger_01", "type": "danger", "label": "ARC Patrol", "x": 0.50, "y": 0.50, "description": "Drone swarm spotted." }
+      "id": "map_buried_city",
+      "name": "Buried City",
+      "image_asset_name": "map_buried_city",
+      "danger_level": 3,
+      "description": "Dense urban ruins. CQC environment.",
+      "markers": [
+        {
+          "id": "bc_extract_subway",
+          "type": "extraction",
+          "x": 0.25,
+          "y": 0.45,
+          "label": "Subway Extract"
+        },
+        {
+          "id": "bc_loot_townhall",
+          "type": "loot",
+          "x": 0.65,
+          "y": 0.75,
+          "label": "Town Hall Cache"
+        },
+        {
+          "id": "bc_danger_hospital",
+          "type": "danger",
+          "x": 0.50,
+          "y": 0.30,
+          "label": "ARC Hospital Patrol"
+        }
+      ]
+    },
+    {
+      "id": "map_dam_battlegrounds",
+      "name": "Dam Battlegrounds",
+      "image_asset_name": "map_dam",
+      "danger_level": 4,
+      "description": "Industrial open ground. Sniper threat.",
+      "markers": [
+        {
+          "id": "dam_extract_north",
+          "type": "extraction",
+          "x": 0.15,
+          "y": 0.20,
+          "label": "North Tunnel"
+        },
+        {
+          "id": "dam_loot_turbine",
+          "type": "loot",
+          "x": 0.80,
+          "y": 0.60,
+          "label": "Turbine Room"
+        },
+        {
+          "id": "dam_danger_tower",
+          "type": "danger",
+          "x": 0.50,
+          "y": 0.50,
+          "label": "Control Tower"
+        }
+      ]
+    },
+    {
+      "id": "map_stella_montis_lower",
+      "name": "Stella Montis (Lower)",
+      "image_asset_name": "map_stella_lower",
+      "danger_level": 2,
+      "description": "Valley floor and caves.",
+      "markers": [
+        {
+          "id": "stella_l_extract_cave",
+          "type": "extraction",
+          "x": 0.10,
+          "y": 0.85,
+          "label": "Cave Exit"
+        },
+        {
+          "id": "stella_l_loot_camp",
+          "type": "loot",
+          "x": 0.60,
+          "y": 0.40,
+          "label": "Abandoned Camp"
+        }
+      ]
+    },
+    {
+      "id": "map_stella_montis_upper",
+      "name": "Stella Montis (Upper)",
+      "image_asset_name": "map_stella_upper",
+      "danger_level": 4,
+      "description": "High altitude research stations.",
+      "markers": [
+        {
+          "id": "stella_u_extract_gondola",
+          "type": "extraction",
+          "x": 0.20,
+          "y": 0.15,
+          "label": "Gondola Station"
+        },
+        {
+          "id": "stella_u_loot_lab",
+          "type": "loot",
+          "x": 0.70,
+          "y": 0.50,
+          "label": "Research Lab"
+        },
+        {
+          "id": "stella_u_danger_observatory",
+          "type": "danger",
+          "x": 0.85,
+          "y": 0.30,
+          "label": "Observatory (Boss)"
+        }
+      ]
+    },
+    {
+      "id": "map_blue_gate",
+      "name": "The Blue Gate",
+      "image_asset_name": "map_blue_gate",
+      "danger_level": 5,
+      "description": "Heavily fortified ARC stronghold.",
+      "markers": [
+        {
+          "id": "bg_extract_underground",
+          "type": "extraction",
+          "x": 0.30,
+          "y": 0.80,
+          "label": "Underground Passage"
+        },
+        {
+          "id": "bg_loot_armory",
+          "type": "loot",
+          "x": 0.75,
+          "y": 0.40,
+          "label": "Armory Vault"
+        },
+        {
+          "id": "bg_danger_gate",
+          "type": "danger",
+          "x": 0.50,
+          "y": 0.50,
+          "label": "Main Gate (Heavy ARC)"
+        }
+      ]
+    },
+    {
+      "id": "map_spaceport",
+      "name": "The Spaceport",
+      "image_asset_name": "map_spaceport",
+      "danger_level": 5,
+      "description": "End-game loot area.",
+      "markers": [
+        {
+          "id": "sp_extract_hangar",
+          "type": "extraction",
+          "x": 0.15,
+          "y": 0.25,
+          "label": "Emergency Hangar"
+        },
+        {
+          "id": "sp_loot_control",
+          "type": "loot",
+          "x": 0.80,
+          "y": 0.70,
+          "label": "Control Tower (Legendary)"
+        },
+        {
+          "id": "sp_danger_runway",
+          "type": "danger",
+          "x": 0.50,
+          "y": 0.50,
+          "label": "Runway (ARC Swarm)"
+        },
+        {
+          "id": "sp_danger_matriarch",
+          "type": "danger",
+          "x": 0.90,
+          "y": 0.80,
+          "label": "Matriarch Spawn"
+        }
       ]
     }
   ]
